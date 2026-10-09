@@ -1,0 +1,5 @@
+# Built add-on zips (attach to GitHub releases instead)
+*.zip
+
+__pycache__/
+*.pyc

@@ -1,0 +1,15 @@
+schema_version = "1.0.0"
+
+id = "auto_bake"
+version = "1.6.0"
+name = "Auto Bake"
+tagline = "Bake Materials/Metallic/Alpha collections into game textures"
+maintainer = "David"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+[permissions]
+files = "Save baked textures to a Textures folder beside the .blend"
